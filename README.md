@@ -1,4 +1,4 @@
-##   Android Enthusiast with a Passion for Craft (4+ Years) and a Harvard CS Certificate 
+##   Android Enthusiast with a Passion for Craft (4+ Years)
 
 I'm an avid Android developer with over 4 years of experience, dedicated to creating innovative and user-centric mobile applications. My expertise spans across a comprehensive toolkit, including:
 
