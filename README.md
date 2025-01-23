@@ -6,7 +6,8 @@ I'm an avid Android developer with over 4 years of experience, dedicated to crea
 
 * **Languages:** Java, Kotlin
 * **Architecture:** Clean Architecture,MVVM, MVI, Multi-modularization
-* **Libraries & Frameworks:** Ktor, Retrofit, Moshi, Kotlin Serialization, Room Database, Dagger Hilt, Jetpack Compose, XML
+* **Libraries & Frameworks:** Ktor, Retrofit, Moshi, Kotlin Serialization, Room Database, Dagger Hilt, Koin, Jetpack Compose, XML,
+     KMP (actively learning)
 * **UI/UX Design:** Skilled in crafting intuitive and visually appealing user experiences.
 
 **Experience:**
